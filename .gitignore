@@ -1,4 +1,5 @@
 *.o
+*.out
 q1/edmonton.db
 q1/*.osm
 q2/part2_btree.db
